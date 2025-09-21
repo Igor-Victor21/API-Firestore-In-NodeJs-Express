@@ -1,0 +1,29 @@
+{
+  "name": "api-firestore-in-nodejs-express",
+  "version": "1.0.0",
+  "description": "API que se conecta no banco de dados \"FireStore\" utilizando node.js e express, com documentação",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igor-Victor21/API-Firestore-In-NodeJs-Express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Igor-Victor21/API-Firestore-In-NodeJs-Express/issues"
+  },
+  "homepage": "https://github.com/Igor-Victor21/API-Firestore-In-NodeJs-Express#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "firebase": "^12.3.0",
+    "firebase-admin": "^13.5.0"
+  }
+}
