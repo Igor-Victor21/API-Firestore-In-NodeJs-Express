@@ -2,8 +2,7 @@
 API que se conecta no banco de dados "FireStore" utilizando node.js e express, com documentação
 
 # Configuração do Projeto 
-- Aviso importante: caso queira utilizar para TypeScript, recomendo iniciar o projeto já em TypeScript. Se você tentar apenas converter arquivos JavaScript para TypeScript, o projeto pode apresentar erros nas rotas e outros problemas de funcionamento.
-  <br/>
+- Aviso importante: caso queira utilizar TypeScript, recomendo iniciar o projeto já em TypeScript. Se você tentar apenas converter arquivos JavaScript para TypeScript, o projeto pode apresentar erros nas rotas e outros problemas de funcionamento.
 - Criando o projeto em node
     npm init (Não configurei nada)
 - Instalando nodemon para não precisar ficar reiniciar o projeto toda vez
@@ -235,6 +234,7 @@ Algo tipo isso: <br/>
 - Se fez tudo certo vai funcionar, caso não funcione vai ter que pesquisar o erro que vai estar dando.
 
 # ACABOU
+
 
 
 
