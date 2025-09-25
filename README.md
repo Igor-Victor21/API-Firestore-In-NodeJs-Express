@@ -195,6 +195,10 @@ DELETE /products/:id: apaga um produto específico.<br/>
 
 No final, ele exporta todas essas rotas para serem usadas no sistema principal.<br/>
 
+# Realizando validação de token JWT
+
+
+
 # Subindo está API para o Render 
 
 - Primeiro vc precisa subir tudo isso para o github (NÃO SOBE A .env PARA O GITHUB)
@@ -234,6 +238,7 @@ Algo tipo isso: <br/>
 - Se fez tudo certo vai funcionar, caso não funcione vai ter que pesquisar o erro que vai estar dando.
 
 # ACABOU
+
 
 
 
